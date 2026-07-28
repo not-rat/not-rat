@@ -39,12 +39,6 @@ COPY OF REAGENT NOTE
 <br>  Не против познакомится или пообщатся!
 
 <p align="center"
- 
-[MORE INFO](https://passportdex.com/ru/notrat)
-
-<br>
-
-<p align="center"
   
 <br>
 <img width="700" height="30" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400" src="https://github.com/user-attachments/assets/9aa558c1-4123-46e1-bc16-37d79b87c824" />
@@ -81,7 +75,13 @@ COPY OF REAGENT NOTE
 <br>• ***Инди***: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
 <br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
 <br>• ***Интерактивное кино***: Detroid, Havy Rain, TWD, LIS2, TWAU.
+
+<p align="center"
  
+[MORE INFO](https://passportdex.com/ru/notrat)
+
+<br>
+
 <p align="center"
 
 <br>
@@ -96,7 +96,7 @@ COPY OF REAGENT NOTE
 <p align="center"
 
  <br>
- <br> всё. :0
+ <br> ~~(8:>
 
 
 <br>
