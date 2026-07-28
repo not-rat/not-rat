@@ -1,5 +1,7 @@
-<img align="left" width="280" height="435" alt="outlast trials_ project judas (poster)" src="https://github.com/user-attachments/assets/edee3797-419f-40a5-915d-15d8205c5a4a" />
-<img align="right" width="280" height="435" alt="miniteet_tmieu (@doremewing) on X" src="https://github.com/user-attachments/assets/bfb6eff0-a77b-4f3c-9f29-bed7d62f6ede" />
+<img align="left" width="280" height="435" alt="outlast trials_ prison farm (poster)" src="https://github.com/user-attachments/assets/b75eeb7f-7411-41c5-88c8-f9ed5de64bda" />
+
+<img align="right" width="280" height="435" alt="Liliya Bogolomolva poster" src="https://github.com/user-attachments/assets/9d87c80c-2ab7-4dd9-b229-5b88505ba9ac" />
+
 
 <br>
 <br>
