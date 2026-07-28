@@ -100,6 +100,10 @@ COPY OF REAGENT NOTE
  <br>
  <br> ~~(8:>
 
+ <p align="left"
+  
+ <br><img width="100" height="100" alt="makesweet-p1775k" src="https://github.com/user-attachments/assets/f98bc863-14e8-4f7e-9909-136a8188b14f" />
+
 
 <br>
 <br>
