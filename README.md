@@ -82,6 +82,15 @@ COPY OF REAGENT NOTE
  
 [MORE INFO](https://passportdex.com/ru/notrat)
 
+<p align="center"
+ 
+<br>
+<img width="405" height="203" alt="playtank628954 (1)" src="https://github.com/user-attachments/assets/a2f2cb98-538a-4b6a-929f-36d5fd583895" />
+
+<p align="center"
+ 
+моя позорная страничка с PS4
+
 <br>
 
 <p align="center"
