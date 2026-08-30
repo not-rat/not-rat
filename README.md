@@ -99,11 +99,13 @@ COPY OF REAGENT NOTE
 
 <img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
 
-
-$${\color{green}\space \space \space \space \space }$$<img width="100" height="230" alt="tumblr_owuo2cq5A71t4iu9go2_400" src="https://github.com/user-attachments/assets/efc289c8-4c74-4e8b-9402-5d10474ab460" />
+<p align="center"
+<br>
+ 
+   <img width="100" height="230" alt="tumblr_owuo2cq5A71t4iu9go2_400" src="https://github.com/user-attachments/assets/efc289c8-4c74-4e8b-9402-5d10474ab460" />
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
- <img width="170" height="195" alt="tumblr_a2a3164f4ada28037f5bcdd69d005831_a2de97f4_250" src="https://github.com/user-attachments/assets/67618561-efd0-47a5-a3d2-c990f919cd4c" />
+   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
+   <img width="170" height="195" alt="tumblr_a2a3164f4ada28037f5bcdd69d005831_a2de97f4_250" src="https://github.com/user-attachments/assets/67618561-efd0-47a5-a3d2-c990f919cd4c" />
 
 <p align="center"
 <br>
