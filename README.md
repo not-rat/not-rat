@@ -75,7 +75,7 @@ COPY OF REAGENT NOTE
 <br>• ***Стелсы***: серия игр Metal Gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, Militsioner.
 <br>• ***Открытые миры***: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light, RDR, Death Stranding, Don't Starve.
 <br>• ***Инди***: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
-<br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
+<br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape, Deponia.
 <br>• ***Интерактивное кино***: Detroid, Havy Rain, TWD, LIS2, TWAU.
 <br>
 <br>
