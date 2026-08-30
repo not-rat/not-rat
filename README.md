@@ -70,26 +70,25 @@ COPY OF REAGENT NOTE
 <img width="700" height="30" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
 # Список любимых игр.
-<br>• ***Хорроры***: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, Subnautica?
-<br>• ***Шутеры***: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, серия игр DMC, серия игр Metro.
-<br>• ***Стелсы***: серия игр Metal Gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, Militsioner.
-<br>• ***Открытые миры***: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light, RDR, Death Stranding, Don't Starve.
-<br>• ***Инди***: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
-<br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape, Deponia.
-<br>• ***Интерактивное кино***: Detroid, Havy Rain, TWD, LIS2, TWAU.
-<br>
-<br>
-<br>
+<br>• ***Хорроры***: **Outlast**, **Psychobreak(TEW)**, (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, **Subnautica?**
+<br>• ***Шутеры***: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, **DMC**, серия игр Metro.
+<br>• ***Стелсы***: **Metal Gear**, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, **Militsioner**.
+<br>• ***Открытые миры***: **Horizon**, **Ghost of Tsushima**, **Watch Dogs**, Cyberpunk 2077, **Dying Light**, RDR, Death Stranding, Don't Starve.
+<br>• ***Инди***: **Pathologic**, **Daniel Mullins Games**, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
+<br>• ***Головоломки***: **Portal(2)**, The Stanley Parable, **The Talos Principle**, **Viewfinder**, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape, Deponia.
+<br>• ***Интерактивное кино***: Detroid, Havy Rain, **TWD**, **LIS2**, TWAU.
+
 <p align="center"
  
 <br>[крутой паспорт](https://passportdex.com/ru/notrat) ~~(8:> [крутой стим](https://steamcommunity.com/id/Rat_Omlat/)
+<br>
+<br>
 
 <p align="right"
  
-<br>
-<img width="405" height="203" alt="9hLxw1MfYbgfVTDZmkdS9rHV7yENmA2jNQNiODAliCYfTLwohN4e7EfRRLOrdz0HqyCBBlN96I5GitsuekrYxxFX" src="https://github.com/user-attachments/assets/3ade0478-1451-47af-82c1-9f64504859f5" />
+<br><img width="405" height="203" alt="9hLxw1MfYbgfVTDZmkdS9rHV7yENmA2jNQNiODAliCYfTLwohN4e7EfRRLOrdz0HqyCBBlN96I5GitsuekrYxxFX" src="https://github.com/user-attachments/assets/3ade0478-1451-47af-82c1-9f64504859f5" />
+
 <p align="right"
- 
 <br>моя позорная страничка с PS4
 <br>я не могу поменять этот тупой ник
 <br>
