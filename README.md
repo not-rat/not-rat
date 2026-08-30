@@ -82,12 +82,12 @@ COPY OF REAGENT NOTE
 <br>
 <p align="center"
  
-[крутой паспорт](https://passportdex.com/ru/notrat) ~~(8:> [крутой стим](https://steamcommunity.com/id/Rat_Omlat/)
+<br>[крутой паспорт](https://passportdex.com/ru/notrat) ~~(8:> [крутой стим](https://steamcommunity.com/id/Rat_Omlat/)
 
 <p align="right"
  
 <br>
-<img width="385" height="190" alt="playtank628954 (1)" src="https://github.com/user-attachments/assets/a2f2cb98-538a-4b6a-929f-36d5fd583895" />
+<img width="405" height="203" alt="9hLxw1MfYbgfVTDZmkdS9rHV7yENmA2jNQNiODAliCYfTLwohN4e7EfRRLOrdz0HqyCBBlN96I5GitsuekrYxxFX" src="https://github.com/user-attachments/assets/3ade0478-1451-47af-82c1-9f64504859f5" />
 <p align="right"
  
 <br>моя позорная страничка с PS4
