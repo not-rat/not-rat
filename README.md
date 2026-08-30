@@ -71,7 +71,7 @@ COPY OF REAGENT NOTE
 
 # Список любимых игр.
 <br>• ***Хорроры***: **Outlast**, **Psychobreak(TEW)**, (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, **Subnautica?**
-<br>• ***Шутеры***: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, **DMC**, серия игр Metro.
+<br>• ***Шутеры***: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, **DMC**, Metro.
 <br>• ***Стелсы***: **Metal Gear**, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, **Militsioner**.
 <br>• ***Открытые миры***: **Horizon**, **Ghost of Tsushima**, **Watch Dogs**, Cyberpunk 2077, **Dying Light**, RDR, Death Stranding, Don't Starve.
 <br>• ***Инди***: **Pathologic**, **Daniel Mullins Games**, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
