@@ -132,6 +132,10 @@ COPY OF REAGENT NOTE
 <br>
 <br>
 
+<p align="center"
+<br>
+<img width="900" height="42" alt="tumblr_54cff6185a14a79dda41220c51031a20_a37d322c_640" src="https://github.com/user-attachments/assets/78224aa7-09a1-42ab-8ce4-99b4d046721e" />
+
 <p align="right"
  
 <br><img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
