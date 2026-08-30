@@ -77,39 +77,43 @@ COPY OF REAGENT NOTE
 <br>• ***Инди***: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
 <br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
 <br>• ***Интерактивное кино***: Detroid, Havy Rain, TWD, LIS2, TWAU.
-
+<br>
+<br>
+<br>
 <p align="center"
  
-[MORE INFO](https://passportdex.com/ru/notrat)
+[крутой паспорт](https://passportdex.com/ru/notrat) ~~(8:> [крутой стим](https://steamcommunity.com/id/Rat_Omlat/)
 
-<p align="center"
+<p align="right"
  
 <br>
-<img width="405" height="203" alt="playtank628954 (1)" src="https://github.com/user-attachments/assets/a2f2cb98-538a-4b6a-929f-36d5fd583895" />
-
-<p align="center"
+<img width="385" height="190" alt="playtank628954 (1)" src="https://github.com/user-attachments/assets/a2f2cb98-538a-4b6a-929f-36d5fd583895" />
+<p align="right"
  
-моя позорная страничка с PS4
-
+<br>моя позорная страничка с PS4
+<br>я не могу поменять этот тупой ник
 <br>
+<br>хотя и сейчас не лучше
 
 <p align="center"
-
 <br>
 <img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
-<br>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
-   
-<br>
-<img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
 
 <p align="center"
-
- <br>
- <br> ~~(8:>
+<br>
+<img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
 
  <p align="left"
+
+ <br>
+ <br>
+ <br><img width="100" height="230" alt="tumblr_owuo2cq5A71t4iu9go2_400" src="https://github.com/user-attachments/assets/efc289c8-4c74-4e8b-9402-5d10474ab460" />
+
+
+<p align="right"
 
  <br>
  <br>
