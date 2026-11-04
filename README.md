@@ -90,7 +90,8 @@ COPY OF REAGENT NOTE
 
 
 <p align="right"
-<br>моя позорная страничка с PS4
+ 
+<br>[моя позорная страничка с PS4](https://stratege.ru/users/notrat)
 <br>я не могу поменять этот тупой ник
 <br>
 <br>хотя и сейчас не лучше
