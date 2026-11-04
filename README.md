@@ -85,8 +85,9 @@ COPY OF REAGENT NOTE
 <br>
 
 <p align="right"
- 
-<br><img width="405" height="203" alt="9hLxw1MfYbgfVTDZmkdS9rHV7yENmA2jNQNiODAliCYfTLwohN4e7EfRRLOrdz0HqyCBBlN96I5GitsuekrYxxFX" src="https://github.com/user-attachments/assets/3ade0478-1451-47af-82c1-9f64504859f5" />
+
+<br><img width="405" height="203" alt="playtank628954" src="https://github.com/user-attachments/assets/9328e83f-02cf-4eb7-a9ac-ab0a5b204dea" />
+
 
 <p align="right"
 <br>моя позорная страничка с PS4
