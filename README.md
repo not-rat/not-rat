@@ -33,7 +33,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 
 <p align="left"
  
-COPY OF REAGENT NOTE
+COPY OF [REAGENT](https://outlasttrialsstats.com/@rat_omlat/trials) NOTE
  
 # Здравствуй!
 <br>  Моё имя... эм, другие зовут меня **Некрыс!** Или Рат Омлат. Или Омлет.. Или Крыс...
